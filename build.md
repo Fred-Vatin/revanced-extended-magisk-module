@@ -1,17 +1,17 @@
 CLI: revanced-cli-2.21.0-all.jar  
-Integrations: revanced-integrations-0.94.1.apk  
-Patches: revanced-patches-2.158.0.jar  
+Integrations: revanced-integrations-0.102.0.apk  
+Patches: revanced-patches-2.168.0.jar  
 
-### [2.158.0](https://github.com/revanced/revanced-patches/compare/v2.157.0...v2.158.0) (2023-01-29)
-### Bug Fixes
-* **youtube/microg-support:** replace new permission ([3d1cce5](https://github.com/revanced/revanced-patches/commit/3d1cce5b4ca54c622b863f24febeb03a6060033c))
-* **youtube:** resolve duplicate preference keys ([#1550](https://github.com/revanced/revanced-patches/issues/1550)) ([aafdb89](https://github.com/revanced/revanced-patches/commit/aafdb891b2f0f243cb2d997a38ab3e6a7b46aba8))
+### [2.168.0](https://github.com/revanced/revanced-patches/compare/v2.167.1...v2.168.0) (2023-04-13)
 ### Features
-* **irplus:** `remove-ads` patch ([#1554](https://github.com/revanced/revanced-patches/issues/1554)) ([9943a52](https://github.com/revanced/revanced-patches/commit/9943a520d29ee89598b4aa6aba69ff83cb4768ce))
+* **youtube/spoof-signature-verification:** enable by default ([#1896](https://github.com/revanced/revanced-patches/issues/1896)) ([0f8155f](https://github.com/revanced/revanced-patches/commit/0f8155fa6940130f9ae08aecbeaee4d9c903a863))
+* **youtube/spoof-signature-verification:** enable by default ([#1896](https://github.com/revanced/revanced-patches/issues/1896)) ([51d09e3](https://github.com/revanced/revanced-patches/commit/51d09e3fbc0bd2cb40db4f8904be68aec9f0b809))
+* **youtube/spoof-signature-verification:** enable by default ([#1896](https://github.com/revanced/revanced-patches/issues/1896)) ([9673318](https://github.com/revanced/revanced-patches/commit/9673318ea8b217f2043c0710a1857f96f87f670a))
+* **youtube/spoof-signature-verification:** enable by default ([#1896](https://github.com/revanced/revanced-patches/issues/1896)) ([774e45e](https://github.com/revanced/revanced-patches/commit/774e45ed50bb15adb2b55d103ff7bfae38570056))
 
   
 **App Versions:**  
-YouTube: 18.03.36  
+YouTube: 18.05.40  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
