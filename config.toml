@@ -8,7 +8,7 @@ build-mindetach-module = false
 [YouTube]
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
 included-patches = ""                                                 # space-seperated patches to include (non-excluded patches are included by default)
-excluded-patches = "'Always autorepeat' 'Vanced MicroG support' 'Disable zoom haptics' 'Enable debugging' 'Hide filter bar' 'Hide timestamp' 'Hide "Load more" button' 'Comments' 'Hide email address' 'Hide seekbar' 'Hide captions button' 'Hide autoplay button' 'Hide video action buttons' 'Hide cast button' 'Enable tablet layout' 'Theme' 'Custom branding' 'Premium heading' 'Tablet mini player'"
+excluded-patches = "'Always autorepeat' 'Vanced MicroG support' 'Disable zoom haptics' 'Enable debugging' 'Hide filter bar' 'Hide timestamp' 'Comments' 'Hide email address' 'Hide seekbar' 'Hide captions button' 'Hide autoplay button' 'Hide video action buttons' 'Hide cast button' 'Enable tablet layout' 'Theme' 'Custom branding' 'Premium heading' 'Tablet mini player'"
 version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
