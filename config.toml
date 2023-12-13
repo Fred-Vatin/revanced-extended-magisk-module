@@ -6,6 +6,9 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
-included-patches = "'Remove player controls background'"
-excluded-patches = "'Premium heading' 'Theme' 'Vanced MicroG support' 'Enable debugging'"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "ReVanced Extended"
+build-mode = "module"
+included-patches = "'Hide double tap overlay filter'"
+excluded-patches = "'Alternative thumbnails' 'Custom branding name YouTube' 'Custom package name' 'Custom seekbar color' 'Hide account menu' 'Hide channel avatar section' 'Hide comment component' 'Hide description components' 'Hide time stamp' 'MicroG support' 'Theme'"
