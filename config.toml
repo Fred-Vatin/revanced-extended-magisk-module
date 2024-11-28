@@ -11,7 +11,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "Revanced Extended"
 cli-version = "v4.6.2"
 
-[Music]
+[Music-Extended]
 version = "auto"
 archive_dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music/"
 # apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -19,7 +19,7 @@ archive_dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 build-mode = "module"
 include-stock = false
 
-[YouTube]
+[YouTube-Extended]
 version = "auto"
 archive_dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube/"
 # apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
