@@ -28,4 +28,4 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 build-mode = "module"
 excluded-patches = "'Theme' 'Alternative thumbnails' 'Enable debugging'"
 include-stock = false
-arch = "arm64-v8a"
+arch = "all"
