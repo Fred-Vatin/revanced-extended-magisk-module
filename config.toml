@@ -12,14 +12,14 @@ rv-brand = "Revanced Extended"
 cli-version = "v4.6.2"
 
 [Music]
-version = "auto"
+version = "7.16.53"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 # apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 # uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 patches-source = "revanced/revanced-patches"
 cli-source = "j-hc/revanced-cli"
 cli-version = "v4.6.0"
-patches-version = "v4.10.0"
+patches-version = "v4.18.0-dev.6"
 rv-brand = "ReVanced Classic"
 build-mode = "module"
 include-stock = true
