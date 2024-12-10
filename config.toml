@@ -5,9 +5,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 # you can use rvmm-config-gen to generate a config
 # GLOBAL
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"  
 rv-brand = "Revanced"
 # cli-version = "v4.6.2"
 
