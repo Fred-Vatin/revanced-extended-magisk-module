@@ -12,21 +12,9 @@ rv-brand = "Revanced"
 # cli-version = "v4.6.2"
 
 [Music-EX]
-version = "auto"
-# version = "6.51.53"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music"
-uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+app-name = "Music"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
 build-mode = "both"
-include-stock = false
 arch = "both"
-
-[YouTube-EX]
-version = "auto"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-# apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube"
-# uptodown-dlurl = "https://youtube.en.uptodown.com/android"
-build-mode = "both"
-excluded-patches = "'Theme' 'Alternative thumbnails' 'Enable debugging'"
-include-stock = false
-arch = "all"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
