@@ -6,7 +6,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 # GLOBAL
 rv-brand = "Revanced"
-# cli-version = "v4.6.2"
 
 [Music-EX]
 app-name = "Music"
@@ -15,3 +14,11 @@ cli-source = "inotia00/revanced-cli"
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+
+[YouTube-EX]
+app-name = "YouTube"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+build-mode = "both"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+excluded-patches = "'Theme' 'Alternative thumbnails' 'Enable debugging'"
